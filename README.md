@@ -49,8 +49,7 @@ pip install -r requirements.txt
 For any questions or feedback, feel free to connect:
 
 - 📧 Email: [sanjaykunwar24@gmail.com](mailto:sanjaykunwar24@gmail.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/sanjay-kunwar-8a8803320/][(https://www.linkedin.com/in/neeraj-singh-804675303/](https://www.linkedin.com/in/sanjay-kunwar-8a8803320/)
-
+- 💼 LinkedIn: [https://www.linkedin.com/in/sanjay-kunwar-8a8803320/](https://www.linkedin.com/in/sanjay-kunwar-8a8803320/)
 ---
 
 This `README.md` provides a comprehensive overview, installation steps, and guidance on using and further developing the project.
